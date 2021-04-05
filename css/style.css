@@ -1,0 +1,27 @@
+/* .test {
+  width: 200px;
+  height: 300px;
+  background-color: teal;
+}
+.test2 {
+  width: 200px;
+  height: 300px;
+  background-color: tomato;
+}
+.test3 {
+  width: 200px;
+  height: 300px;
+  background-color: goldenrod;
+} */
+
+section {
+  width: 5px;
+  height: 5px;
+  background-color: purple;
+}
+
+.item,
+section h1,
+section p {
+  display: none;
+}
